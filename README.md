@@ -61,3 +61,6 @@ Creating a personal portfolio webpage using HTML and CSS is a vital first step f
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/19243cd7-84ae-47dd-99ee-7a2c2a3be511)
+
+![Image](https://github.com/user-attachments/assets/540e6ad6-33b4-4543-8d43-b8e9699c499f)
