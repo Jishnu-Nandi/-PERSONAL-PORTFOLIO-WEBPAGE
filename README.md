@@ -12,7 +12,7 @@
 *MENTOR*: NEELA SANTOSH
 
 
-#DESCRIPTION
+# DESCRIPTION
 
 The purpose of this task is to design and develop a basic yet professional personal portfolio website using only HTML and CSS. This type of website is used by web developers, designers, and other professionals to showcase their skills, projects, and contact information. The final deliverable should be a single-page responsive portfolio that includes navigation and adapts to different screen sizes.
 
@@ -59,7 +59,7 @@ Go through your entire page and check for consistency, broken links, and grammar
 **Conclusion**
 Creating a personal portfolio webpage using HTML and CSS is a vital first step for anyone entering the field of web development or design. It helps you understand the fundamentals of web structure and styling while also giving you a platform to present your work. A well-designed portfolio not only highlights your skills but also demonstrates your attention to detail and ability to create user-friendly websites. Completing this task strengthens your foundational knowledge and adds a valuable asset to your professional toolkit.
 
-**OUTPUT**
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/540e6ad6-33b4-4543-8d43-b8e9699c499f)
 
